@@ -1,0 +1,26 @@
+[12-Aug-2021 05:13:29 Europe/Berlin]  ---- Lista de Errores ----
+[12-Aug-2021 05:13:29 Europe/Berlin] libs -> app -> __construct
+[12-Aug-2021 05:13:29 Europe/Berlin] PHP Warning:  require_once(controllers/login.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\prueba\libs\app.php on line 11
+[12-Aug-2021 05:16:12 Europe/Berlin]  ---- Lista de Errores ----
+[12-Aug-2021 05:16:12 Europe/Berlin] libs -> app -> __construct
+[12-Aug-2021 05:16:12 Europe/Berlin] PHP Warning:  require_once(controllers/login.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\prueba\libs\app.php on line 11
+[12-Aug-2021 05:17:17 Europe/Berlin]  ---- Lista de Errores ----
+[12-Aug-2021 05:17:17 Europe/Berlin] libs -> app -> __construct
+[12-Aug-2021 05:17:17 Europe/Berlin] PHP Warning:  require_once(controllers/login.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\prueba\libs\app.php on line 11
+[12-Aug-2021 05:32:54 Europe/Berlin]  ---- Lista de Errores ----
+[12-Aug-2021 05:32:55 Europe/Berlin] PHP Parse error:  Unclosed '{' on line 2 in C:\xampp\htdocs\prueba\libs\view.php on line 58
+[12-Aug-2021 05:33:06 Europe/Berlin]  ---- Lista de Errores ----
+[12-Aug-2021 05:33:06 Europe/Berlin] libs -> app -> __construct
+[12-Aug-2021 05:33:06 Europe/Berlin] controllers -> login
+[12-Aug-2021 05:33:29 Europe/Berlin]  ---- Lista de Errores ----
+[12-Aug-2021 05:33:29 Europe/Berlin] libs -> app -> __construct
+[12-Aug-2021 05:33:29 Europe/Berlin] controllers -> login
+[12-Aug-2021 05:33:36 Europe/Berlin]  ---- Lista de Errores ----
+[12-Aug-2021 05:33:36 Europe/Berlin] libs -> app -> __construct
+[12-Aug-2021 05:33:36 Europe/Berlin] controllers -> login
+[12-Aug-2021 05:33:44 Europe/Berlin]  ---- Lista de Errores ----
+[12-Aug-2021 05:33:44 Europe/Berlin] libs -> app -> __construct
+[12-Aug-2021 05:33:44 Europe/Berlin] controllers -> login
+[12-Aug-2021 05:33:50 Europe/Berlin]  ---- Lista de Errores ----
+[12-Aug-2021 05:33:50 Europe/Berlin] libs -> app -> __construct
+[12-Aug-2021 05:33:50 Europe/Berlin] controllers -> login

@@ -1,0 +1,33 @@
+{
+    "sites": [
+        {
+            "site": "",
+            "access": "public",
+            "type": 0
+        },
+        {
+            "site": "signup",
+            "access": "public",
+            "type": 0
+        },
+        {
+            "site": "mantenedor",
+            "access": "private",
+            "type": 1
+        },
+        {
+            "site": "admin",
+            "access": "private",
+            "type": 1
+        },
+        {
+            "site": "dashboard",
+            "access": "private",
+            "type": 2
+        }
+    ],
+    "default-sites": {
+        "1": "admin",
+        "2": "dashboard"
+    }
+}
